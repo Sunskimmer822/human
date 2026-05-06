@@ -11,15 +11,15 @@ TitleUnicode:Human
 Artist:Flavor Foley
 ArtistUnicode:Flavor Foley
 Creator:Sunskimmer82
-Version:UNBEATABLE
-Tags:{"Level":14,"FlavorText":"is it human to be waiting..?","SongLength":270.504,"CoverArt":""}
+Version:Expert
+Tags:{"Level":14,"FlavorText":"is it human to be waiting..?","SongLength":270.504,"CoverArt":"insertdisc5"}
 
 [Difficulty]
 
 [Events]
 
 [TimingPoints]
-0,300.00000000,4,2,0,100,1,8
+0,300.00000000,4,2,0,100,1,0
 
 
 [HitObjects]
