@@ -12,7 +12,7 @@ Artist:Flavor Foley
 ArtistUnicode:Flavor Foley
 Creator:Sunskimmer82
 Version:Expert
-Tags:{"Level":14,"FlavorText":"is it human to be waiting..?","SongLength":270.504,"CoverArt":""}
+Tags:{"Level":13,"FlavorText":"is it human to be waiting..?","SongLength":270.504,"CoverArt":""}
 
 [Difficulty]
 
