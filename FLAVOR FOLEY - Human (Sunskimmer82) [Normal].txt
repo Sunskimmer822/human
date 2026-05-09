@@ -12,7 +12,7 @@ Artist:Flavor Foley
 ArtistUnicode:Flavor Foley
 Creator:Sunskimmer82
 Version:Hard
-Tags:{"Level":10,"FlavorText":"is it human to be waiting..?","SongLength":270.504,"CoverArt":""}
+Tags:{"Level":10,"FlavorText":"why do you like the stars?","SongLength":270.504,"CoverArt":""}
 
 [Difficulty]
 
